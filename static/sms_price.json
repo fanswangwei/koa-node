@@ -1,0 +1,1101 @@
+[{
+        "country": "美国",
+        "country_num": "1",
+        "sms_price": "0.0420"
+    },
+    {
+        "country": "南奥赛梯",
+        "country_num": "7",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "埃及",
+        "country_num": "20",
+        "sms_price": "0.3651"
+    },
+    {
+        "country": "南非",
+        "country_num": "27",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "希腊",
+        "country_num": "30",
+        "sms_price": "0.4270"
+    },
+    {
+        "country": "荷兰",
+        "country_num": "31",
+        "sms_price": "0.6059"
+    },
+    {
+        "country": "比利时",
+        "country_num": "32",
+        "sms_price": "0.6214"
+    },
+    {
+        "country": "法国大都会",
+        "country_num": "33",
+        "sms_price": "0.3724"
+    },
+    {
+        "country": "西班牙",
+        "country_num": "34",
+        "sms_price": "0.6741"
+    },
+    {
+        "country": "匈牙利",
+        "country_num": "36",
+        "sms_price": "0.4942"
+    },
+    {
+        "country": "梵蒂冈(罗马教廷)",
+        "country_num": "39",
+        "sms_price": "0.4270"
+    },
+    {
+        "country": "罗马尼亚",
+        "country_num": "40",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "瑞士",
+        "country_num": "41",
+        "sms_price": "0.3822"
+    },
+    {
+        "country": "奥地利",
+        "country_num": "43",
+        "sms_price": "0.6293"
+    },
+    {
+        "country": "泽西岛",
+        "country_num": "44",
+        "sms_price": "0.2149"
+    },
+    {
+        "country": "格陵兰",
+        "country_num": "45",
+        "sms_price": "0.1799"
+    },
+    {
+        "country": "瑞典",
+        "country_num": "46",
+        "sms_price": "0.5278"
+    },
+    {
+        "country": "挪威",
+        "country_num": "47",
+        "sms_price": "0.4661"
+    },
+    {
+        "country": "波兰",
+        "country_num": "48",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "德国",
+        "country_num": "49",
+        "sms_price": "0.5437"
+    },
+    {
+        "country": "秘鲁",
+        "country_num": "51",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "墨西哥",
+        "country_num": "52",
+        "sms_price": "0.2086"
+    },
+    {
+        "country": "古巴",
+        "country_num": "53",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "阿根廷",
+        "country_num": "54",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "巴西",
+        "country_num": "55",
+        "sms_price": "0.1554"
+    },
+    {
+        "country": "智利",
+        "country_num": "56",
+        "sms_price": "0.3710"
+    },
+    {
+        "country": "哥伦比亚",
+        "country_num": "57",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "委内瑞拉",
+        "country_num": "58",
+        "sms_price": "0.3262"
+    },
+    {
+        "country": "马来西亚",
+        "country_num": "60",
+        "sms_price": "0.1596"
+    },
+    {
+        "country": "科科斯群岛",
+        "country_num": "61",
+        "sms_price": "0.2563"
+    },
+    {
+        "country": "印度尼西亚",
+        "country_num": "62",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "菲律宾共和国",
+        "country_num": "63",
+        "sms_price": "0.0896"
+    },
+    {
+        "country": "皮特凯恩岛",
+        "country_num": "64",
+        "sms_price": "0.6741"
+    },
+    {
+        "country": "新加坡",
+        "country_num": "65",
+        "sms_price": "0.1942"
+    },
+    {
+        "country": "泰国",
+        "country_num": "66",
+        "sms_price": "0.1064"
+    },
+    {
+        "country": "日本",
+        "country_num": "81",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "韩国",
+        "country_num": "82",
+        "sms_price": "0.0945"
+    },
+    {
+        "country": "越南",
+        "country_num": "84",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "土耳其",
+        "country_num": "90",
+        "sms_price": "0.2576"
+    },
+    {
+        "country": "印度",
+        "country_num": "91",
+        "sms_price": "0.0476"
+    },
+    {
+        "country": "巴基斯坦",
+        "country_num": "92",
+        "sms_price": "0.1437"
+    },
+    {
+        "country": "阿富汗",
+        "country_num": "93",
+        "sms_price": "0.4894"
+    },
+    {
+        "country": "斯里兰卡",
+        "country_num": "94",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "缅甸",
+        "country_num": "95",
+        "sms_price": "0.5437"
+    },
+    {
+        "country": "伊朗（伊斯兰共和国）",
+        "country_num": "98",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "南苏丹共和国",
+        "country_num": "211",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "摩洛哥",
+        "country_num": "212",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "阿尔及利亚",
+        "country_num": "213",
+        "sms_price": "0.6741"
+    },
+    {
+        "country": "突尼斯",
+        "country_num": "216",
+        "sms_price": "0.6181"
+    },
+    {
+        "country": "利比亚",
+        "country_num": "218",
+        "sms_price": "0.3884"
+    },
+    {
+        "country": "冈比亚",
+        "country_num": "220",
+        "sms_price": "0.2695"
+    },
+    {
+        "country": "塞内加尔",
+        "country_num": "221",
+        "sms_price": "0.5054"
+    },
+    {
+        "country": "毛里塔尼亚",
+        "country_num": "222",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "马里",
+        "country_num": "223",
+        "sms_price": "0.2359"
+    },
+    {
+        "country": "几内亚",
+        "country_num": "224",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "科特迪瓦",
+        "country_num": "225",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "布基纳法索",
+        "country_num": "226",
+        "sms_price": "0.2330"
+    },
+    {
+        "country": "尼日尔",
+        "country_num": "227",
+        "sms_price": "0.8428"
+    },
+    {
+        "country": "多哥",
+        "country_num": "228",
+        "sms_price": "0.3884"
+    },
+    {
+        "country": "贝宁",
+        "country_num": "229",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "毛里求斯",
+        "country_num": "230",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "利比里亚",
+        "country_num": "231",
+        "sms_price": "0.6741"
+    },
+    {
+        "country": "塞拉利昂",
+        "country_num": "232",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "加纳",
+        "country_num": "233",
+        "sms_price": "0.3934"
+    },
+    {
+        "country": "尼日利亚",
+        "country_num": "234",
+        "sms_price": "0.1771"
+    },
+    {
+        "country": "乍得",
+        "country_num": "235",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "中非共和国",
+        "country_num": "236",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "喀麦隆",
+        "country_num": "237",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "佛得角",
+        "country_num": "238",
+        "sms_price": "0.6741"
+    },
+    {
+        "country": "圣多美和普林西比",
+        "country_num": "239",
+        "sms_price": "0.6680"
+    },
+    {
+        "country": "赤道几内亚",
+        "country_num": "240",
+        "sms_price": "0.8545"
+    },
+    {
+        "country": "加蓬",
+        "country_num": "241",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "刚果",
+        "country_num": "242",
+        "sms_price": "0.4837"
+    },
+    {
+        "country": "刚果民主共和国",
+        "country_num": "243",
+        "sms_price": "0.7518"
+    },
+    {
+        "country": "安哥拉",
+        "country_num": "244",
+        "sms_price": "0.3822"
+    },
+    {
+        "country": "几内亚比绍",
+        "country_num": "245",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "英属印度洋领地",
+        "country_num": "246",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "塞舌尔",
+        "country_num": "248",
+        "sms_price": "0.2583"
+    },
+    {
+        "country": "苏丹",
+        "country_num": "249",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "卢旺达",
+        "country_num": "250",
+        "sms_price": "0.2471"
+    },
+    {
+        "country": "埃塞俄比亚",
+        "country_num": "251",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "索马里",
+        "country_num": "252",
+        "sms_price": "0.6293"
+    },
+    {
+        "country": "吉布提",
+        "country_num": "253",
+        "sms_price": "0.7413"
+    },
+    {
+        "country": "肯尼亚",
+        "country_num": "254",
+        "sms_price": "0.2330"
+    },
+    {
+        "country": "坦桑尼亚",
+        "country_num": "255",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "乌干达",
+        "country_num": "256",
+        "sms_price": "0.3857"
+    },
+    {
+        "country": "布隆迪",
+        "country_num": "257",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "莫桑比克",
+        "country_num": "258",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "赞比亚",
+        "country_num": "260",
+        "sms_price": "0.2330"
+    },
+    {
+        "country": "马达加斯加",
+        "country_num": "261",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "留尼汪岛",
+        "country_num": "262",
+        "sms_price": "0.3759"
+    },
+    {
+        "country": "津巴布韦",
+        "country_num": "263",
+        "sms_price": "0.2695"
+    },
+    {
+        "country": "那米比亚",
+        "country_num": "264",
+        "sms_price": "0.3710"
+    },
+    {
+        "country": "马拉维",
+        "country_num": "265",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "莱索托",
+        "country_num": "266",
+        "sms_price": "0.4661"
+    },
+    {
+        "country": "博茨瓦纳",
+        "country_num": "267",
+        "sms_price": "0.5614"
+    },
+    {
+        "country": "斯威士兰",
+        "country_num": "268",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "科摩罗",
+        "country_num": "269",
+        "sms_price": "0.4046"
+    },
+    {
+        "country": "厄立特里亚国",
+        "country_num": "291",
+        "sms_price": "2.2470"
+    },
+    {
+        "country": "阿鲁巴",
+        "country_num": "297",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "法罗群岛",
+        "country_num": "298",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "直布罗陀",
+        "country_num": "350",
+        "sms_price": "0.2135"
+    },
+    {
+        "country": "葡萄牙",
+        "country_num": "351",
+        "sms_price": "0.2952"
+    },
+    {
+        "country": "卢森堡",
+        "country_num": "352",
+        "sms_price": "0.2695"
+    },
+    {
+        "country": "爱尔兰",
+        "country_num": "353",
+        "sms_price": "0.4270"
+    },
+    {
+        "country": "冰岛",
+        "country_num": "354",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "阿尔巴尼亚",
+        "country_num": "355",
+        "sms_price": "0.4661"
+    },
+    {
+        "country": "马尔他",
+        "country_num": "356",
+        "sms_price": "0.2641"
+    },
+    {
+        "country": "塞浦路斯",
+        "country_num": "357",
+        "sms_price": "0.5054"
+    },
+    {
+        "country": "芬兰",
+        "country_num": "358",
+        "sms_price": "0.4606"
+    },
+    {
+        "country": "保加利亚",
+        "country_num": "359",
+        "sms_price": "0.6293"
+    },
+    {
+        "country": "立陶宛",
+        "country_num": "370",
+        "sms_price": "0.2175"
+    },
+    {
+        "country": "拉脱维亚",
+        "country_num": "371",
+        "sms_price": "0.3486"
+    },
+    {
+        "country": "爱沙尼亚",
+        "country_num": "372",
+        "sms_price": "0.5049"
+    },
+    {
+        "country": "摩尔多瓦",
+        "country_num": "373",
+        "sms_price": "0.6181"
+    },
+    {
+        "country": "亚美尼亚",
+        "country_num": "374",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "白俄罗斯",
+        "country_num": "375",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "安道尔共和国",
+        "country_num": "376",
+        "sms_price": "2.1750"
+    },
+    {
+        "country": "摩纳哥",
+        "country_num": "377",
+        "sms_price": "0.5049"
+    },
+    {
+        "country": "圣马力诺共和国",
+        "country_num": "378",
+        "sms_price": "0.5614"
+    },
+    {
+        "country": "乌克兰",
+        "country_num": "380",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "南斯拉夫",
+        "country_num": "381",
+        "sms_price": "0.2330"
+    },
+    {
+        "country": "黑山共和国",
+        "country_num": "382",
+        "sms_price": "0.1942"
+    },
+    {
+        "country": "克罗地亚",
+        "country_num": "385",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "斯洛文尼亚",
+        "country_num": "386",
+        "sms_price": "0.1942"
+    },
+    {
+        "country": "波斯尼亚和黑塞哥维那",
+        "country_num": "387",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "马其顿",
+        "country_num": "389",
+        "sms_price": "0.1709"
+    },
+    {
+        "country": "捷克",
+        "country_num": "420",
+        "sms_price": "0.4158"
+    },
+    {
+        "country": "斯洛伐克（斯洛伐克人的共和国）",
+        "country_num": "421",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "列支敦士登",
+        "country_num": "423",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "列支敦士登",
+        "country_num": "500",
+        "sms_price": "0.1687"
+    },
+    {
+        "country": "伯利兹城",
+        "country_num": "501",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "危地马拉",
+        "country_num": "502",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "萨尔瓦多",
+        "country_num": "503",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "洪都拉斯",
+        "country_num": "504",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "尼加拉瓜",
+        "country_num": "505",
+        "sms_price": "0.3729"
+    },
+    {
+        "country": "哥斯达黎加",
+        "country_num": "506",
+        "sms_price": "0.3031"
+    },
+    {
+        "country": "巴拿马",
+        "country_num": "507",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "海地",
+        "country_num": "509",
+        "sms_price": "0.5614"
+    },
+    {
+        "country": "圣马丁岛",
+        "country_num": "590",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "玻利维亚",
+        "country_num": "591",
+        "sms_price": "0.5845"
+    },
+    {
+        "country": "圭亚那",
+        "country_num": "592",
+        "sms_price": "0.3884"
+    },
+    {
+        "country": "厄瓜多尔",
+        "country_num": "593",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "法属圭亚那",
+        "country_num": "594",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "巴拉圭",
+        "country_num": "595",
+        "sms_price": "0.2023"
+    },
+    {
+        "country": "马提尼克岛",
+        "country_num": "596",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "苏里南",
+        "country_num": "597",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "乌拉圭",
+        "country_num": "598",
+        "sms_price": "0.4505"
+    },
+    {
+        "country": "荷兰安的列斯群岛",
+        "country_num": "599",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "东帝汶",
+        "country_num": "670",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "文莱达鲁萨兰国",
+        "country_num": "673",
+        "sms_price": "0.2247"
+    },
+    {
+        "country": "瑙鲁",
+        "country_num": "674",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "巴布亚新几内亚",
+        "country_num": "675",
+        "sms_price": "0.2807"
+    },
+    {
+        "country": "汤加",
+        "country_num": "676",
+        "sms_price": "0.3934"
+    },
+    {
+        "country": "索罗门群岛",
+        "country_num": "677",
+        "sms_price": "0.5049"
+    },
+    {
+        "country": "瓦努阿图",
+        "country_num": "678",
+        "sms_price": "0.3934"
+    },
+    {
+        "country": "斐济",
+        "country_num": "679",
+        "sms_price": "0.3934"
+    },
+    {
+        "country": "帛琉",
+        "country_num": "680",
+        "sms_price": "0.4661"
+    },
+    {
+        "country": "沃利斯和富图纳群岛",
+        "country_num": "681",
+        "sms_price": "1.1652"
+    },
+    {
+        "country": "库克群岛",
+        "country_num": "682",
+        "sms_price": "0.2695"
+    },
+    {
+        "country": "萨摩亚",
+        "country_num": "684",
+        "sms_price": "0.5390"
+    },
+    {
+        "country": "西撒哈拉",
+        "country_num": "685",
+        "sms_price": "0.4494"
+    },
+    {
+        "country": "新喀里多尼亚",
+        "country_num": "687",
+        "sms_price": "1.0098"
+    },
+    {
+        "country": "图瓦卢",
+        "country_num": "688",
+        "sms_price": "1.5536"
+    },
+    {
+        "country": "法属玻里尼西亚",
+        "country_num": "689",
+        "sms_price": "0.5579"
+    },
+    {
+        "country": "托克劳",
+        "country_num": "690",
+        "sms_price": "0.8470"
+    },
+    {
+        "country": "密克罗尼西亚",
+        "country_num": "691",
+        "sms_price": "0.4661"
+    },
+    {
+        "country": "马绍尔群岛",
+        "country_num": "692",
+        "sms_price": "0.8470"
+    },
+    {
+        "country": "朝鲜",
+        "country_num": "850",
+        "sms_price": "0.3598"
+    },
+    {
+        "country": "中国香港",
+        "country_num": "852",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "中国澳门",
+        "country_num": "853",
+        "sms_price": "0.1787"
+    },
+    {
+        "country": "柬埔寨",
+        "country_num": "855",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "老挝",
+        "country_num": "856",
+        "sms_price": "0.3598"
+    },
+    {
+        "country": "孟加拉国",
+        "country_num": "880",
+        "sms_price": "0.3976"
+    },
+    {
+        "country": "中国台湾",
+        "country_num": "886",
+        "sms_price": "0.1932"
+    },
+    {
+        "country": "马尔代夫",
+        "country_num": "960",
+        "sms_price": "0.1134"
+    },
+    {
+        "country": "黎巴嫩",
+        "country_num": "961",
+        "sms_price": "0.2695"
+    },
+    {
+        "country": "约旦",
+        "country_num": "962",
+        "sms_price": "0.3884"
+    },
+    {
+        "country": "叙利亚",
+        "country_num": "963",
+        "sms_price": "0.6293"
+    },
+    {
+        "country": "伊拉克",
+        "country_num": "964",
+        "sms_price": "0.5614"
+    },
+    {
+        "country": "科威特",
+        "country_num": "965",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "沙特阿拉伯",
+        "country_num": "966",
+        "sms_price": "0.1321"
+    },
+    {
+        "country": "也门",
+        "country_num": "967",
+        "sms_price": "0.3496"
+    },
+    {
+        "country": "阿曼",
+        "country_num": "968",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "巴勒斯坦",
+        "country_num": "970",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "阿拉伯联合酋长国",
+        "country_num": "971",
+        "sms_price": "0.1515"
+    },
+    {
+        "country": "以色列",
+        "country_num": "972",
+        "sms_price": "0.2023"
+    },
+    {
+        "country": "巴林",
+        "country_num": "973",
+        "sms_price": "0.1049"
+    },
+    {
+        "country": "卡塔尔",
+        "country_num": "974",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "不丹",
+        "country_num": "975",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "外蒙古",
+        "country_num": "976",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "尼泊尔",
+        "country_num": "977",
+        "sms_price": "0.4942"
+    },
+    {
+        "country": "塔吉克",
+        "country_num": "992",
+        "sms_price": "0.1864"
+    },
+    {
+        "country": "土库曼",
+        "country_num": "993",
+        "sms_price": "0.4272"
+    },
+    {
+        "country": "阿塞拜疆",
+        "country_num": "994",
+        "sms_price": "0.8148"
+    },
+    {
+        "country": "格鲁吉亚",
+        "country_num": "995",
+        "sms_price": "0.7861"
+    },
+    {
+        "country": "吉尔吉斯",
+        "country_num": "996",
+        "sms_price": "0.2486"
+    },
+    {
+        "country": "乌兹别克斯坦",
+        "country_num": "998",
+        "sms_price": "0.5502"
+    },
+    {
+        "country": "巴哈马",
+        "country_num": "1242",
+        "sms_price": "0.1942"
+    },
+    {
+        "country": "巴巴多斯",
+        "country_num": "1246",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "安圭拉岛",
+        "country_num": "1264",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "安提瓜和巴布达",
+        "country_num": "1268",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "维尔京群岛(英国)",
+        "country_num": "1284",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "维尔京群岛(美国)",
+        "country_num": "1340",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "开曼群岛",
+        "country_num": "1345",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "百慕大",
+        "country_num": "1441",
+        "sms_price": "0.3107"
+    },
+    {
+        "country": "格林纳达",
+        "country_num": "1473",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "蒙特塞拉特",
+        "country_num": "1664",
+        "sms_price": "0.1864"
+    },
+    {
+        "country": "北马里亚纳群岛",
+        "country_num": "1670",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "关岛",
+        "country_num": "1671",
+        "sms_price": "0.8988"
+    },
+    {
+        "country": "圣卢西亚岛",
+        "country_num": "1758",
+        "sms_price": "0.3220"
+    },
+    {
+        "country": "多米尼克国",
+        "country_num": "1767",
+        "sms_price": "0.3220"
+    },
+    {
+        "country": "圣文森特和格林纳丁斯",
+        "country_num": "1784",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "波多黎各",
+        "country_num": "1787",
+        "sms_price": "0.2583"
+    },
+    {
+        "country": "土克斯及开科斯群岛",
+        "country_num": "1809",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "多米尼加共和国",
+        "country_num": "1849",
+        "sms_price": "0.2719"
+    },
+    {
+        "country": "特立尼达和多巴哥",
+        "country_num": "1868",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "圣基茨和尼维斯",
+        "country_num": "1869",
+        "sms_price": "0.5437"
+    },
+    {
+        "country": "牙买加",
+        "country_num": "1876",
+        "sms_price": "0.3367"
+    },
+    {
+        "country": "诺福克岛",
+        "country_num": "6723",
+        "sms_price": "0.5054"
+    }
+]
