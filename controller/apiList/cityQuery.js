@@ -1,4 +1,4 @@
-const cityJson = require('../../static/city-mapping.json')
+const cityJson = require('../../static/json/city-mapping.json')
 // 对象去重
 const deduplicationObj = (key, parentKey) => {
   let itemObj = {}
