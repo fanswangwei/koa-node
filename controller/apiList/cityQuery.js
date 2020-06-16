@@ -1,11 +1,9 @@
 const cityJson = require('../../static/city-mapping.json')
-// let dealNum = 0;
 // 对象去重
 const deduplicationObj = (key, parentKey) => {
   let itemObj = {}
   return cityJson.reduce( (previousItem, currentItem) => {
     itemObj[currentItem[key]] ? '' : itemObj[currentItem[key]] = true && previousItem.push({label: currentItem[key.split('_')[0]], value: currentItem[key], parent_value: parentKey ? currentItem[parentKey] : ''});
-    // dealNum ++ ;
     return previousItem
   }, []);
 }

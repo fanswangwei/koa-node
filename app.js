@@ -4,6 +4,10 @@ const app = new Koa();
 const logger = require('koa-logger');
 const onerror = require('koa-onerror');
 const dayjs = require('dayjs');
+const views = require('koa-views');
+const path = require('path');
+const koaBody = require('koa-body');
+const static = require('koa-static');
 
 const router = require('./router');
 const config = require('./config');
@@ -37,6 +41,18 @@ app.use(async (ctx, next)=>{
     }
   }
 })
+// 配置静态web服务的中间件
+// app.use(static('static'));
+app.use(static(__dirname + '/static'));
+
+// 上传参数
+app.use(koaBody({
+  multipart: true,
+  formidable: {
+    keepExtensions: true,
+    maxFileSize: 2000*1024*1024
+  }
+}))
 
 // 日志
 app.use(logger((str, args) => {
